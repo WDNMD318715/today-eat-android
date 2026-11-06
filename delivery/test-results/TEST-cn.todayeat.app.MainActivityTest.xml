@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="cn.todayeat.app.MainActivityTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-06T05:34:47" time="4.762">
+  <properties />
+  <testcase name="singleCandidateRecreationAndExplicitConfirmation" classname="cn.todayeat.app.MainActivityTest" time="3.987" />
+  <testcase name="dinnerExclusionIsNotRelaxedUntilUserAccepts" classname="cn.todayeat.app.MainActivityTest" time="0.515" />
+  <testcase name="emptySelectionShowsActionableDialog" classname="cn.todayeat.app.MainActivityTest" time="0.259" />
+  <system-out />
+  <system-err />
+</testsuite>

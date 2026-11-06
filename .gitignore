@@ -1,0 +1,16 @@
+.gradle/
+.tools/
+local.properties
+**/build/
+*.jks
+*.keystore
+.idea/
+.signing/
+signing.properties
+delivery/*
+!delivery/*.md
+!delivery/apk-verification.txt
+!delivery/screenshots/
+!delivery/test-results/
+__pycache__/
+*.pyc

@@ -1,0 +1,42 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=TodayEat Personal, O=TodayEat, C=CN
+Signer #1 certificate SHA-256 digest: c1754c843ebe730e6565ba67ed9b73c7d298dc696dc533151fa93d4e3049ec64
+Signer #1 certificate SHA-1 digest: 6cc4281e54e1fda07d7a87f87c7afc0dc4c21c37
+Signer #1 certificate MD5 digest: dcc89bd402b1848d50ec6a87eea4dd67
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: a0797003e6e079ce6b0894cb923f2bebdb8e96ed00d0a4963f32e2afd44f50b6
+Signer #1 public key SHA-1 digest: d862e9c011a719e1e4019e12a7f273f4dacabbc0
+Signer #1 public key MD5 digest: 3f8e5a0dcae4966227e983f630d510a5
+package: name='cn.todayeat.app' versionCode='1' versionName='1.0.0' platformBuildVersionName='15' platformBuildVersionCode='35' compileSdkVersion='35' compileSdkVersionCodename='15'
+sdkVersion:'26'
+targetSdkVersion:'35'
+application-label:'今天吃什么'
+application-icon-160:'res/r2.xml'
+application: label='今天吃什么' icon='res/r2.xml'
+launchable-activity: name='cn.todayeat.app.MainActivity'  label='' icon=''
+feature-group: label=''
+  uses-feature: name='android.hardware.faketouch'
+  uses-implied-feature: name='android.hardware.faketouch' reason='default feature for all apps'
+main
+supports-screens: 'small' 'normal' 'large' 'xlarge'
+supports-any-density: 'true'
+locales: '--_--'
+densities: '160'
+package: cn.todayeat.app
+Verifying alignment of T:\delivery\TodayEat-v1.0.0.apk (4)...
+      87 META-INF/com/android/build/gradle/app-metadata.properties (OK - compressed)
+     208 META-INF/version-control-info.textproto (OK - compressed)
+     297 classes.dex (OK - compressed)
+   21546 AndroidManifest.xml (OK - compressed)
+   22439 res/4j.xml (OK - compressed)
+   22766 res/r2.xml (OK - compressed)
+   23316 resources.arsc (OK)
+Verification succesful
